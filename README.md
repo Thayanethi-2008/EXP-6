@@ -64,7 +64,8 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 
 **Input voltage Vin = ______ V      Frequency f = ______ Hz      Null voltage = ______ V**
 
-<img width="1275" height="1600" alt="image" src="https://github.com/user-attachments/assets/ca24ee76-7a69-4ce1-b553-dfc552907f5b" />
+<img width="1600" height="711" alt="image" src="https://github.com/user-attachments/assets/6ebbd0a4-963c-4376-94d3-b72c9be7d8c9" />
+
 
 
 ## FORMULA
